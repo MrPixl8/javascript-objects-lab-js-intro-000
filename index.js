@@ -1,1 +1,1 @@
-var recipes = ({})
+var recipes = ({keys:'0'})
